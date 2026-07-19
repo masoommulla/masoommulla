@@ -119,12 +119,16 @@ projects through "vibe coding" and continuously experimenting with new tools.
   <img src="https://img.shields.io/badge/Portfolio-masoommulla.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117&color=4ade80" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:masoommulla14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-masoommulla14@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=4ade80" alt="Email"/>
+<a href="mailto:mullamasoom50@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-mullamasoom50@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=4ade80" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/masoom-mulla" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-masoom--mulla-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=4ade80" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/masoompersonal3" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-masoompersonal3-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=4ade80" alt="GitHub"/>
 </a>
 
 <br/><br/>
