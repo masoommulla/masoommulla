@@ -55,16 +55,16 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
   <!-- Strap -->
   <g>
-    <path d="M191 -6 L229 -6 L226 236 L194 236 Z" fill="url(#strapg)"/>
-    <line x1="196" y1="0" x2="198.5" y2="234" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
-    <line x1="224" y1="0" x2="221.5" y2="234" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
+    <path d="M191 -6 L229 -6 L226 248 L194 248 Z" fill="url(#strapg)"/>
+    <line x1="196" y1="0" x2="198.5" y2="246" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
+    <line x1="224" y1="0" x2="221.5" y2="246" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
     <text x="0" y="0" font-size="10.5" font-weight="bold" fill="#fff" opacity=".92" letter-spacing="2" transform="translate(214,18) rotate(90)">MASOOMMULLA ♥ CODE ♥ MASOOMMULLA</text>
   </g>
 
   <!-- Clasp + ring -->
-  <rect x="188" y="232" width="44" height="26" rx="6" fill="url(#metal)" stroke="#4a4f5c" stroke-width="1"/>
-  <rect x="199" y="238" width="22" height="7" rx="3.5" fill="#3c414e"/>
-  <circle cx="210" cy="272" r="14" fill="none" stroke="url(#metal)" stroke-width="5.5"/>
+  <rect x="188" y="244" width="44" height="26" rx="6" fill="url(#metal)" stroke="#4a4f5c" stroke-width="1"/>
+  <rect x="199" y="250" width="22" height="7" rx="3.5" fill="#3c414e"/>
+  <circle cx="210" cy="284" r="14" fill="none" stroke="url(#metal)" stroke-width="5.5"/>
 
   <!-- Card (secondary wobble) -->
   <g class="wob">
