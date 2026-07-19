@@ -75,13 +75,15 @@ projects through "vibe coding" and continuously experimenting with new tools.
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/masoommulla">
-<img src="https://github-readme-stats.vercel.app/api?username=masoommulla&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=e6edf3&ring_color=22c55e&include_all_commits=true&count_private=true" alt="Masoom's GitHub Stats" height="180"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/masoommulla">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoommulla&layout=compact&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=e6edf3&langs_count=6" alt="Top Languages" height="180"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masoommulla&theme=github_dark" alt="Masoom's GitHub Stats" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masoommulla&theme=github_dark" alt="Repos Per Language" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masoommulla&theme=github_dark" alt="Most Commit Language" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masoommulla&theme=github_dark" alt="Stats" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masoommulla&theme=github_dark&utcOffset=5.5" alt="Productive Time" height="160"/>
 
 <br/>
 
