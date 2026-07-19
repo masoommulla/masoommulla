@@ -1,47 +1,67 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="banner-hacker.svg?v=13">
-        <source media="(prefers-color-scheme: light)" srcset="banner-hacker-light.svg?v=13">
-        <img alt="Animated GitHub Banner" src="banner-hacker.svg?v=13">
+        <source media="(prefers-color-scheme: dark)" srcset="banner-hacker.svg?v=14">
+        <source media="(prefers-color-scheme: light)" srcset="banner-hacker-light.svg?v=14">
+        <img alt="Animated GitHub Banner" src="banner-hacker.svg?v=14">
     </picture>
 </div>
 
 <br/>
 
 <div align="center">
-<table border="0" style="border: none;">
-<tr style="border: none;">
-<td width="35%" align="center" style="border: none; background: transparent;">
-<img src="lanyard-green.svg?v=13" alt="Swinging Lanyard" width="300">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
+<tr>
+<td width="35%" align="center" valign="top" style="border: none; background: transparent; padding: 16px;">
+<img src="lanyard-green.svg?v=11" alt="Developer ID Card" width="300">
 </td>
-<td width="65%" valign="top" style="border: none; background: transparent;">
+<td width="65%" valign="top" style="border: none; background: transparent; padding: 16px;">
+
+<h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="28" align="absmiddle" alt="dev"/>
+&nbsp; About Me
+</h3>
+
+<p>
+I am an aspiring web developer and UI/UX designer from Gokak, Karnataka.
+Currently in my pre-final year of B.E. in Computer Science with a deep passion for
+modern web development. I love exploring the development ecosystem by building
+projects through "vibe coding" and continuously experimenting with new tools.
+</p>
+
 <br/>
-<h3>👨‍💻 About Me</h3>
-<p>I am an aspiring web developer and UI/UX designer from Gokak, Karnataka. Currently in my pre-final year of B.E. in Computer Science with a deep passion for modern web development. I love exploring the development ecosystem by building projects through "vibe coding" and continuously experimenting with new tools.</p>
-<br/>
-<h3>🎓 Education</h3>
-<table width="100%" border="1" bordercolor="#4ade80" style="border: 2px solid #4ade80; box-shadow: 0 0 15px #4ade80; border-radius: 8px;">
+
+<h3>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="28" align="absmiddle" alt="edu"/>
+&nbsp; Education
+</h3>
+
+<table width="100%" style="border-collapse: separate; border-spacing: 0; border: 2px solid #4ade80; border-radius: 8px; overflow: hidden; box-shadow: 0 0 16px #22c55e;">
+<thead>
+<tr style="background-color: #052e16;">
+<th align="center" style="padding: 8px 12px; border: 1px solid #4ade80; color: #4ade80;">Degree</th>
+<th align="center" style="padding: 8px 12px; border: 1px solid #4ade80; color: #4ade80;">Institution</th>
+<th align="center" style="padding: 8px 12px; border: 1px solid #4ade80; color: #4ade80;">Year</th>
+</tr>
+</thead>
+<tbody>
 <tr>
-<th>Degree</th>
-<th>Institution</th>
-<th>Year</th>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">B.E. Computer Science</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">KLECET Chikodi</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">2023 - 2027</td>
 </tr>
 <tr>
-<td>B.E. Computer Science</td>
-<td>KLECET Chikodi</td>
-<td>2023 - 2027</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">Pre-University (PUC)</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">KLE Society C.S. Angadi College</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">2020 - 2022</td>
 </tr>
 <tr>
-<td>Pre-University (PUC)</td>
-<td>KLE Society C.S. Angadi College</td>
-<td>2020 - 2022</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">SSLC</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">Volart Academy High School</td>
+<td align="center" style="padding: 8px 12px; border: 1px solid #4ade80;">2019 - 2020</td>
 </tr>
-<tr>
-<td>SSLC</td>
-<td>Volart Academy High School</td>
-<td>2019 - 2020</td>
-</tr>
+</tbody>
 </table>
+
 </td>
 </tr>
 </table>

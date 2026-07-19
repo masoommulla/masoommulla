@@ -135,8 +135,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <rect x="48" y="262" width="380" height="72" rx="8" fill="#021406" stroke="#10b981" stroke-width="2" filter="url(#glow)"/>
   <rect x="48" y="266" width="3.5" height="64" rx="1.5" fill="#4ade80"/>
 </g>
-<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#e6edf3">Building scalable web apps,</text>
-<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#e6edf3">I </tspan><tspan fill="#4ade80" font-weight="bold">code</tspan><tspan fill="#e6edf3"> anime.</tspan></text>
+<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#e6edf3">Crafting sleek frontends,</text>
+<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#e6edf3">one </tspan><tspan fill="#4ade80" font-weight="bold">pixel</tspan><tspan fill="#e6edf3"> at a time.</tspan></text>
 <g class="tw" style="animation-delay:.9s"><path d="M400 288l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#34d399"/></g>
 
 <!-- Tech I Know -->
