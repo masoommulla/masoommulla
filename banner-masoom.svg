@@ -118,8 +118,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- Name: Masoom Mulla -->
 <g class="ltr" style="animation-delay:1.5s">
-  <text x="48" y="185" font-family="'Comic Sans MS', 'Brush Script MT', cursive, sans-serif" font-style="italic" font-size="65" font-weight="bold" fill="url(#nameg)" filter="url(#glow)">MASOOM🤍</text>
-  <text x="48" y="185" font-family="'Comic Sans MS', 'Brush Script MT', cursive, sans-serif" font-style="italic" font-size="65" font-weight="bold" fill="url(#nameg)">MASOOM🤍</text>
+  <text x="48" y="185" font-family="Black Ops One" font-size="65" font-weight="bold" fill="url(#nameg)" filter="url(#glow)">MASOOM🤍</text>
+  <text x="48" y="185" font-family="Black Ops One" font-size="65" font-weight="bold" fill="url(#nameg)">MASOOM🤍</text>
 </g>
 <g class="hb" style="animation-delay:3s"><path d="M410 168 c-5-11-21-9-21 4 0 9 12 16 21 22 9-6 21-13 21-22 0-13-16-15-21-4z" fill="#4ade80" opacity=".95"/></g>
 

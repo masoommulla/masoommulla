@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="banner-hacker.svg?v=15">
-        <source media="(prefers-color-scheme: light)" srcset="banner-hacker-light.svg?v=15">
-        <img alt="Animated GitHub Banner" src="banner-hacker.svg?v=15">
+        <source media="(prefers-color-scheme: dark)" srcset="banner-masoom.svg?v=15">
+        <source media="(prefers-color-scheme: light)" srcset="banner-masoom-light.svg?v=15">
+        <img alt="Animated GitHub Banner" src="banner-masoom.svg?v=15">
     </picture>
 </div>
 
