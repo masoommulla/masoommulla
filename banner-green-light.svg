@@ -26,8 +26,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 .cur{animation:blink 1s step-end infinite}
 .tw{transform-box:fill-box;transform-origin:center;animation:twinkle 2.6s ease-in-out infinite}
 .hb{transform-box:fill-box;transform-origin:center;animation:heartBeat 2.2s ease-in-out infinite}
-.fl{animation:floaty 5s ease-in-out infinite}
-.fl2{transform-box:fill-box;transform-origin:center;animation:floaty2 4.2s ease-in-out infinite}
+.fl{}
+.fl2{}
 .neon-on{animation:neonFlicker 2.4s ease 3.2s backwards}
 .np{animation:neonPulse 2.6s ease-in-out infinite}
 .rp{animation:rise linear infinite}
