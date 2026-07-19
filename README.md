@@ -93,4 +93,43 @@ projects through "vibe coding" and continuously experimenting with new tools.
 
 [![Masoom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masoommulla&bg_color=0d1117&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=052e16&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/masoommulla)
 
+<br/>
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masoommulla/masoommulla/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masoommulla/masoommulla/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/masoommulla/masoommulla/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
+
+---
+
+<div align="center">
+
+### 🌐 Connect with Me
+
+<br/>
+
+<a href="https://masoommulla.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-masoommulla.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117&color=4ade80" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="mailto:masoommulla14@gmail.com">
+  <img src="https://img.shields.io/badge/Email-masoommulla14@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=4ade80" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/masoom-mulla" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-masoom--mulla-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=4ade80" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=masoommulla&label=Profile+Views&color=4ade80&style=for-the-badge&labelColor=0d1117)
+
+</div>
+
