@@ -66,3 +66,36 @@ projects through "vibe coding" and continuously experimenting with new tools.
 </tr>
 </table>
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<table border="0" cellspacing="8" cellpadding="0" style="border: none; background: transparent;">
+<tr>
+<td style="border: none;">
+
+[![Masoom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masoommulla&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=4ade80&icon_color=4ade80&text_color=e6edf3&border_color=4ade80&ring_color=22c55e&include_all_commits=true&count_private=true)](https://github.com/masoommulla)
+
+</td>
+<td style="border: none;">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masoommulla&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=e6edf3&langs_count=6)](https://github.com/masoommulla)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=masoommulla&theme=dark&hide_border=true&background=0d1117&ring=4ade80&fire=22c55e&currStreakLabel=4ade80&sideLabels=4ade80&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=4ade80)](https://github.com/masoommulla)
+
+<br/>
+
+[![Masoom's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masoommulla&bg_color=0d1117&color=4ade80&line=22c55e&point=4ade80&area=true&area_color=052e16&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/masoommulla)
+
+</div>
