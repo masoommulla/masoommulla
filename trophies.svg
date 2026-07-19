@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+    <rect width="400" height="200" rx="10" fill="#13131a" stroke="#2d2d3d" stroke-width="2"/>
+    <text x="20" y="40" font-family="sans-serif" font-size="20" fill="#ff0080" font-weight="bold">Trophies</text>
+    
+    <g transform="translate(30, 70)">
+        <rect width="80" height="80" rx="10" fill="#1e1e2f" stroke="#ffbd2e" stroke-width="2"/>
+        <text x="40" y="40" font-family="sans-serif" font-size="30" fill="#ffbd2e" text-anchor="middle">🏆</text>
+        <text x="40" y="70" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">Creator</text>
+    </g>
+    
+    <g transform="translate(130, 70)">
+        <rect width="80" height="80" rx="10" fill="#1e1e2f" stroke="#27c93f" stroke-width="2"/>
+        <text x="40" y="40" font-family="sans-serif" font-size="30" fill="#27c93f" text-anchor="middle">⭐</text>
+        <text x="40" y="70" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">Star</text>
+    </g>
+    
+    <g transform="translate(230, 70)">
+        <rect width="80" height="80" rx="10" fill="#1e1e2f" stroke="#ff0080" stroke-width="2"/>
+        <text x="40" y="40" font-family="sans-serif" font-size="30" fill="#ff0080" text-anchor="middle">🔥</text>
+        <text x="40" y="70" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">Streak</text>
+    </g>
+</svg>
