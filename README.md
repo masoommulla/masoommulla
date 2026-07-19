@@ -123,8 +123,12 @@ projects through "vibe coding" and continuously experimenting with new tools.
   <img src="https://img.shields.io/badge/Gmail-mullamasoom50@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=4ade80" alt="Email"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/masoom-mulla" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-masoom--mulla-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=4ade80" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/masoommulla/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-masoommulla-4ade80?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=4ade80" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/MasoomM20695" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter%2FX-MasoomM20695-4ade80?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=4ade80" alt="Twitter/X"/>
 </a>
 &nbsp;
 <a href="https://github.com/masoompersonal3" target="_blank">
