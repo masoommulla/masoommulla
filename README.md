@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-    <img src="lanyard.svg?v=3" alt="Swinging Lanyard" height="400">
+    <img src="lanyard.svg?v=4" alt="Swinging Lanyard" height="400">
 </div>
 
 # masoommulla
