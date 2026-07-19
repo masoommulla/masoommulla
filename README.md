@@ -130,10 +130,7 @@ projects through "vibe coding" and continuously experimenting with new tools.
 <a href="https://x.com/MasoomM20695" target="_blank">
   <img src="https://img.shields.io/badge/Twitter%2FX-MasoomM20695-4ade80?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117&color=4ade80" alt="Twitter/X"/>
 </a>
-&nbsp;
-<a href="https://github.com/masoompersonal3" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-masoompersonal3-4ade80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=4ade80" alt="GitHub"/>
-</a>
+
 
 <br/><br/>
 
