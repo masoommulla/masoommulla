@@ -1,8 +1,8 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="banner-hacker.svg?v=14">
-        <source media="(prefers-color-scheme: light)" srcset="banner-hacker-light.svg?v=14">
-        <img alt="Animated GitHub Banner" src="banner-hacker.svg?v=14">
+        <source media="(prefers-color-scheme: dark)" srcset="banner-hacker.svg?v=15">
+        <source media="(prefers-color-scheme: light)" srcset="banner-hacker-light.svg?v=15">
+        <img alt="Animated GitHub Banner" src="banner-hacker.svg?v=15">
     </picture>
 </div>
 
@@ -12,7 +12,7 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent;">
 <tr>
 <td width="35%" align="center" valign="top" style="border: none; background: transparent; padding: 16px;">
-<img src="lanyard-green.svg?v=11" alt="Developer ID Card" width="300">
+<img src="lanyard-green.svg?v=15" alt="Developer ID Card" width="300">
 </td>
 <td width="65%" valign="top" style="border: none; background: transparent; padding: 16px;">
 

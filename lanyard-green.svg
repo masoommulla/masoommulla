@@ -58,7 +58,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <path d="M191 -6 L229 -6 L226 248 L194 248 Z" fill="url(#strapg)"/>
     <line x1="196" y1="0" x2="198.5" y2="246" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
     <line x1="224" y1="0" x2="221.5" y2="246" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
-    <text x="0" y="0" font-size="10.5" font-weight="bold" fill="#fff" opacity=".92" letter-spacing="2" transform="translate(214,18) rotate(90)">MASOOMMULLA ♥ CODE ♥ MASOOMMULLA</text>
+    <text x="0" y="0" font-size="10.5" font-family="Righteous" font-weight="bold" fill="#fff" opacity=".92" letter-spacing="2" transform="translate(214,18) rotate(90)">MASOOMMULLA ♥ CODE ♥ MASOOMMULLA</text>
   </g>
 
   <!-- Clasp + ring -->
@@ -75,8 +75,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <g clip-path="url(#cardclip)">
       <!-- header band -->
       <rect x="82" y="298" width="256" height="34" fill="#09180c" opacity=".7"/>
-      <text x="98" y="345" font-size="9" fill="#8b949e" letter-spacing="1.5">DEVELOPER ID</text>
-      <text x="322" y="345" text-anchor="end" font-size="9" fill="#4ade80" letter-spacing="1.5">MM-14</text>
+      <text x="98" y="345" font-size="9" font-family="Audiowide" fill="#8b949e" letter-spacing="1.5">DEVELOPER ID</text>
+      <text x="322" y="345" text-anchor="end" font-size="9" font-family="Audiowide" fill="#4ade80" letter-spacing="1.5">MM-14</text>
 
       <!-- avatar -->
       <clipPath id="avatarClip"><circle cx="210" cy="412" r="57.5"/></clipPath>
@@ -85,10 +85,10 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
       <!-- name -->
       <g transform="translate(114,516)" fill="url(#nameg2)" filter="url(#glow2)">
-<text x="96" y="0" font-family="'Comic Sans MS', 'Brush Script MT', cursive, sans-serif" font-style="italic" font-size="45" font-weight="bold" text-anchor="middle">Masoom</text>
+<text font-family="Black Ops One" x="96" y="0" font-size="45" font-weight="bold" text-anchor="middle" fill="#4ade80">Masoom</text>
 </g>
       <text x="210" y="540" text-anchor="middle" font-size="11" fill="#22c55e" font-weight="bold" letter-spacing="2.5">FULL STACK DEVELOPER</text>
-      <text x="210" y="558" text-anchor="middle" font-size="10.5" fill="#8b949e">@masoommulla</text>
+      <text x="210" y="558" text-anchor="middle" font-size="10.5" font-family="Righteous" fill="#8b949e">@masoommulla</text>
 
       <line x1="100" y1="572" x2="320" y2="572" stroke="#2a1f3d" stroke-width="1"/>
 
@@ -103,5 +103,5 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
 </g></g>
 
-<text x="210" y="652" text-anchor="middle" font-size="10" fill="#8b949e" opacity="0" style="animation:fadeIn .6s ease 3.6s forwards">— drag me… just kidding, I'm an SVG ♥ —</text>
+<text x="210" y="652" text-anchor="middle" font-size="10" font-family="Audiowide" fill="#8b949e" opacity="0" style="animation:fadeIn .6s ease 3.6s forwards">— drag me… just kidding, I'm an SVG ♥ —</text>
 </svg>

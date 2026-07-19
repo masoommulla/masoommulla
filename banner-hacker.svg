@@ -135,25 +135,25 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <rect x="48" y="262" width="380" height="72" rx="8" fill="#021406" stroke="#10b981" stroke-width="2" filter="url(#glow)"/>
   <rect x="48" y="266" width="3.5" height="64" rx="1.5" fill="#4ade80"/>
 </g>
-<text clip-path="url(#q1)" x="76" y="292" font-size="15" fill="#e6edf3">Crafting sleek frontends,</text>
-<text clip-path="url(#q2)" x="76" y="318" font-size="15"><tspan fill="#e6edf3">one </tspan><tspan fill="#4ade80" font-weight="bold">pixel</tspan><tspan fill="#e6edf3"> at a time.</tspan></text>
+<text clip-path="url(#q1)" x="76" y="292" font-size="15" font-family="Righteous" fill="#e6edf3">Crafting sleek frontends,</text>
+<text clip-path="url(#q2)" x="76" y="318" font-size="15" font-family="Righteous"><tspan fill="#e6edf3">one </tspan><tspan fill="#4ade80" font-weight="bold">pixel</tspan><tspan fill="#e6edf3"> at a time.</tspan></text>
 <g class="tw" style="animation-delay:.9s"><path d="M400 288l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#34d399"/></g>
 
 <!-- Tech I Know -->
-<text class="ii" x="48" y="374" font-size="15" fill="#10b981" font-weight="bold" style="animation:fadeIn .4s ease 4.6s forwards">🧩 Tech I Know</text>
-<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="76" height="26" rx="13" fill="rgba(227,79,38,.13)" stroke="#e34f26" stroke-width="1"/><text x="86" y="405" text-anchor="middle" font-size="12" fill="#ff8a65" font-weight="bold">HTML</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="132" y="388" width="70" height="26" rx="13" fill="rgba(38,119,189,.15)" stroke="#0ea5e9" stroke-width="1"/><text x="167" y="405" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">CSS</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="210" y="388" width="110" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="265" y="405" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">JavaScript</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(74,222,128,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" fill="#a7f3d0" font-weight="bold">React</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(34,197,94,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" fill="#4ade80" font-weight="bold">SAP</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(16,185,129,.14)" stroke="#059669" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" fill="#6ee7b7" font-weight="bold">SQL</text></g>
-<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="192" y="422" width="130" height="26" rx="13" fill="rgba(74,222,128,.10)" stroke="#4ade80" stroke-width="1"/><text x="257" y="439" text-anchor="middle" font-size="12" fill="#86efac" font-weight="bold">Responsive UI</text></g>
+<text class="ii" x="48" y="374" font-size="15" fill="#10b981" font-weight="bold" font-family="Audiowide" style="animation:fadeIn .4s ease 4.6s forwards">🧩 Tech I Know</text>
+<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="388" width="76" height="26" rx="13" fill="rgba(227,79,38,.13)" stroke="#e34f26" stroke-width="1"/><text x="86" y="405" text-anchor="middle" font-size="12" font-family="Righteous" fill="#ff8a65" font-weight="bold">HTML</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="132" y="388" width="70" height="26" rx="13" fill="rgba(38,119,189,.15)" stroke="#0ea5e9" stroke-width="1"/><text x="167" y="405" text-anchor="middle" font-size="12" font-family="Righteous" fill="#7dd3fc" font-weight="bold">CSS</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5s forwards"><rect x="210" y="388" width="110" height="26" rx="13" fill="rgba(247,223,30,.10)" stroke="#f7df1e" stroke-width="1"/><text x="265" y="405" text-anchor="middle" font-size="12" font-family="Righteous" fill="#fde047" font-weight="bold">JavaScript</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="328" y="388" width="80" height="26" rx="13" fill="rgba(74,222,128,.10)" stroke="#61dafb" stroke-width="1"/><text x="368" y="405" text-anchor="middle" font-size="12" font-family="Righteous" fill="#a7f3d0" font-weight="bold">React</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="48" y="422" width="64" height="26" rx="13" fill="rgba(34,197,94,.14)" stroke="#4a9eda" stroke-width="1"/><text x="80" y="439" text-anchor="middle" font-size="12" font-family="Righteous" fill="#4ade80" font-weight="bold">SAP</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="120" y="422" width="64" height="26" rx="13" fill="rgba(16,185,129,.14)" stroke="#059669" stroke-width="1"/><text x="152" y="439" text-anchor="middle" font-size="12" font-family="Righteous" fill="#6ee7b7" font-weight="bold">SQL</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="192" y="422" width="130" height="26" rx="13" fill="rgba(74,222,128,.10)" stroke="#4ade80" stroke-width="1"/><text x="257" y="439" text-anchor="middle" font-size="12" font-family="Righteous" fill="#86efac" font-weight="bold">Responsive UI</text></g>
 
 <!-- About Me -->
-<text class="ii" x="48" y="490" font-size="15" fill="#4ade80" font-weight="bold" style="animation:fadeIn .4s ease 5.6s forwards">💗 About Me</text>
-<text class="ii" x="48" y="516" font-size="13.5" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#4ade80">&gt;_ </tspan><tspan fill="#cdd3dd">Aspiring web developer &amp; UI/UX designer from Karnataka.</tspan></text>
-<text class="ii" x="48" y="540" font-size="13.5" style="animation:fadeIn .4s ease 6s forwards"><tspan fill="#fde047">💡 </tspan><tspan fill="#cdd3dd">Currently in B.E. Computer Science, always learning.</tspan></text>
-<text class="ii" x="48" y="564" font-size="13.5" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#4ade80">🚀 </tspan><tspan fill="#cdd3dd">Passionate about modern web development &amp; vibe coding.</tspan></text>
+<text class="ii" x="48" y="490" font-size="15" fill="#4ade80" font-weight="bold" font-family="Audiowide" style="animation:fadeIn .4s ease 5.6s forwards">💗 About Me</text>
+<text class="ii" x="48" y="516" font-size="13.5" font-family="Righteous" style="animation:fadeIn .4s ease 5.8s forwards"><tspan fill="#4ade80">&gt;_ </tspan><tspan fill="#cdd3dd">Aspiring web developer &amp; UI/UX designer from Karnataka.</tspan></text>
+<text class="ii" x="48" y="540" font-size="13.5" font-family="Righteous" style="animation:fadeIn .4s ease 6s forwards"><tspan fill="#fde047">💡 </tspan><tspan fill="#cdd3dd">Currently in B.E. Computer Science, always learning.</tspan></text>
+<text class="ii" x="48" y="564" font-size="13.5" font-family="Righteous" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#4ade80">🚀 </tspan><tspan fill="#cdd3dd">Passionate about modern web development &amp; vibe coding.</tspan></text>
 
 <!-- ================= RIGHT: ILLUSTRATION ================= -->
 <circle cx="1000" cy="440" r="270" fill="url(#girlGlow)"><animate attributeName="r" values="270;292;270" dur="5s" repeatCount="indefinite"/></circle>
