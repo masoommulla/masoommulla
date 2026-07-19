@@ -1,47 +1,15 @@
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=2">
-        <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=2">
-        <img alt="Animated GitHub Banner" src="banner.svg?v=2">
+        <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=3">
+        <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=3">
+        <img alt="Animated GitHub Banner" src="banner.svg?v=3">
     </picture>
 </div>
 
 <br/>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="40%" align="center" valign="top" style="border: none;">
-      <img src="lanyard.svg?v=2" alt="Swinging Lanyard" height="300">
-    </td>
-    <td width="60%" align="center" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=masoommulla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoommulla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoommulla&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masoommulla&theme=tokyonight&column=5&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
-
-<br/>
-
-<div align="center">
-    <h2>Contribution Snake</h2>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masoommulla/masoommulla/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masoommulla/masoommulla/output/github-contribution-grid-snake.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/masoommulla/masoommulla/output/github-contribution-grid-snake.svg">
-    </picture>
+    <img src="lanyard.svg?v=3" alt="Swinging Lanyard" height="400">
 </div>
 
 # masoommulla

@@ -60,7 +60,7 @@
     <text x="60" y="300" class="terminal" fill="#8892b0">Full Stack Developer | Designer | Innovator</text>
     
     <g transform="translate(60, 360)">
-        <rect width="400" height="200" rx="10" fill="#1e1e2f" stroke="#3e3e5e" stroke-width="1"/>
+        <rect width="420" height="270" rx="10" fill="#1e1e2f" stroke="#3e3e5e" stroke-width="1"/>
         <text x="20" y="40" class="terminal" fill="#ff0080" font-size="18">function <tspan fill="#50fa7b">buildDreams</tspan>() {</text>
         <text x="40" y="80" class="terminal" fill="#f1fa8c" font-size="18">  while(alive) {</text>
         <text x="60" y="120" class="terminal" fill="#8be9fd" font-size="18">    code();</text>
