@@ -119,8 +119,8 @@ projects through "vibe coding" and continuously experimenting with new tools.
   <img src="https://img.shields.io/badge/Portfolio-masoommulla.vercel.app-4ade80?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117&color=4ade80" alt="Portfolio"/>
 </a>
 &nbsp;
-<a href="mailto:mullamasoom50@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-mullamasoom50@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=4ade80" alt="Email"/>
+<a href="mailto:masoommulla14@gmail.com?subject=Hey%20Masoom%2C%20Let%27s%20Connect!&body=Hey%20Masoom%2C%0A%0AI%20want%20to%20">
+  <img src="https://img.shields.io/badge/Gmail-masoommulla14@gmail.com-4ade80?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=4ade80" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/masoommulla/" target="_blank">
