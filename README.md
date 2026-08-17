@@ -22,7 +22,7 @@
 </h3>
 
 <p>
-I am an aspiring web developer and UI/UX designer from Gokak, Karnataka.
+I am an aspiring web developer and UI/UX designer India.
 Currently in my pre-final year of B.E. in Computer Science with a deep passion for
 modern web development. I love exploring the development ecosystem by building
 projects through "vibe coding" and continuously experimenting with new tools.
